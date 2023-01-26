@@ -1,0 +1,8 @@
+ul {
+  width: 100%;
+  height: auto;
+  border: groove 2px gray;
+  box-shadow: -2px -2px 5px gray;
+  padding: 1rem;
+}
+

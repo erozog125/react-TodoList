@@ -1,4 +1,5 @@
 import React from 'react';
+import { ImageTask } from '../ImageTask/ImageTask';
 import './newTask.css';
 
 export const NewTask = () => {

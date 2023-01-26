@@ -1,5 +1,5 @@
 .new-task-component {
-  width: 90%;
+  width: 50%;
   height: 12rem;
   border: solid 1px  #c1c2c2;
   border-radius: 5px;
@@ -9,7 +9,7 @@
   box-shadow: 0 0 10px #01014e;
   /* background-color: #0b88ba; */
   background-color: #fff;
-  margin-top: 1rem;
+  margin: 1rem;
 }
 
 .h2-new-task {
@@ -66,8 +66,7 @@
   outline: auto; 
   color: #fff;
   font-weight: 400;
-  cursor: pointer; 
-  align-self: flex-start;   
+  cursor: pointer;   
 }
 
 .btn-create-task:hover,
